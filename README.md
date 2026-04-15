@@ -6,8 +6,6 @@ I work at the intersection of applied research and engineering: physics-informed
 reconstruction models, sovereign NLP pipelines, and industrial ML systems.
 My work spans from mathematical formulation to working implementation.
 
-Targeting a **12 month AI/Data apprenticeship** (Sept. 2026),
-followed by a **CIFRE PhD in AI**.
 
 ---
 
