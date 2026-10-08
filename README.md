@@ -1,6 +1,7 @@
 # Hodeifa Khourchafi
 
-**Engineering student (M1), ENSISA Mulhouse — Deep Learning & AI**
+**Engineering student (M2), ENSISA Mulhouse — Deep Learning & AI**
+*Current AI Engineer at Lynred · Former Data Engineer at Inocel*
 
 I work at the intersection of applied research and engineering: physics-informed
 reconstruction models, sovereign NLP pipelines, and industrial ML systems.
@@ -28,7 +29,6 @@ My work spans from mathematical formulation to working implementation.
 |---|---|---|
 | [unet-ct-reconstruction](https://github.com/senzu38100/unet-ct-reconstruction) | U-Net with residual blocks for low-dose CT reconstruction on LoDoPaB-CT. Sparse-view FBP input → denoised output. Combined MSE + SSIM loss. Target: +8 dB PSNR vs FBP baseline. | PyTorch · ASTRA Toolbox |
 | [rag-mistral7b-local](https://github.com/senzu38100/rag-mistral7b-local) | Fully local RAG pipeline for technical document Q&A. Mistral-7B via Ollama, ChromaDB vector store, HuggingFace embeddings, regex-based NER metadata enrichment. Zero cloud dependency. | LangChain · ChromaDB · Ollama |
-| [inocel-anomaly-detection](https://github.com/senzu38100/inocel-anomaly-detection) | LSTM-based real-time anomaly detection on H2 fuel cell telemetry (industrial internship, Inocel). Real-time ingestion via InfluxDB. Case study — proprietary data. | PyTorch · InfluxDB · Python |
 | [Rocket-league-AI](https://github.com/senzu38100/Rocket-league-AI) | PPO self-play RL agent for Rocket League. Trained from scratch with RLGym, custom reward shaping, kickoff-specific policy. | PyTorch · RLGym |
 | [lol-predictability-analysis](https://github.com/senzu38100/Minute-Level-Analysis-of-Ranked-Solo-Queue-League-of-Legends-Matches-at-High-Elo) | Minute-level win prediction on high-elo matches (Riot API). XGBoost pipeline, SHAP feature attribution, reproducible 6-step pipeline. Includes academic paper (LaTeX). | Python · XGBoost · SHAP |
 
